@@ -1,0 +1,27 @@
+{
+  "name": "GoodREADMEGenerator",
+  "version": "1.0.0",
+  "description": "## Description   Use generator to create a markdow file for GitHub Project",
+  "main": "index.js",
+  "dependencies": {
+    "all": "^0.0.0",
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nokmaniphone/GoodREADMEGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nokmaniphone/GoodREADMEGenerator/issues"
+  },
+  "homepage": "https://github.com/nokmaniphone/GoodREADMEGenerator#readme"
+}
